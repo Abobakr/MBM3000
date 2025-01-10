@@ -1,0 +1,9 @@
+- Home Page
+- Electro Machine Hospital Beds Gallery Page:
+	▪Standard details Page
+	▪E Plus details Page
+	▪Mobile details Page
+	▪.... details Page
+- pharmaceutical Automation System  (PharamaDis details Page) 
+- About page
+- Contact Us page

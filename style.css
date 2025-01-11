@@ -328,8 +328,8 @@ body {
 
 .header .top-contact li {
   display: inline-block;
-  margin-right: 25px;
   color: #2c2d3f;
+  margin: 5px;
 }
 
 .header .top-contact li:last-child {
@@ -371,7 +371,7 @@ body {
 
 .header .logo {
   float: left;
-  margin-top: 5%;
+  margin-top: 25px;
 }
 
 .header .navbar {
@@ -705,7 +705,7 @@ body {
 }
 
 .slider .single-slider .text {
-  margin-top: 120px;
+  margin-top: 55%;
   background-color: #ffffff75;
   border-radius: 50px;
   text-align: center;
@@ -1332,7 +1332,7 @@ body {
 	Start Portfolio CSS
 ============================*/
 #portfolio {
-  margin-top: -17%;
+  margin: 5% 0;
 }
 .portfolio {
   padding: 0 3%;

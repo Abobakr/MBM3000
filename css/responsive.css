@@ -150,8 +150,6 @@ Version:	1.1
     top: 0;
     height: 100%;
     width: 100%;
-    background: #fff;
-    opacity: 0.5;
   }
   .slider .single-slider h1 {
     font-size: 28px;
@@ -383,7 +381,6 @@ Version:	1.1
     z-index: 333;
     position: absolute;
     position: relative;
-    padding-bottom: 20px;
     background: #fff;
   }
   .slicknav_menu {
@@ -495,7 +492,7 @@ Version:	1.1
     margin-top: 18px;
   }
   .header .slicknav_nav {
-    margin-top: 65px;
+    margin-top: 75px;
   }
   .header.style2 .slicknav_nav {
     margin-top: 60px;
@@ -590,8 +587,6 @@ Version:	1.1
     top: 0;
     height: 100%;
     width: 100%;
-    background: #fff;
-    opacity: 0.5;
   }
   .slider .single-slider h1 {
     font-size: 28px;
@@ -1074,8 +1069,6 @@ Version:	1.1
     top: 0;
     height: 100%;
     width: 100%;
-    background: #fff;
-    opacity: 0.5;
   }
   .slider .single-slider h1 {
     font-size: 20px;
@@ -1086,7 +1079,7 @@ Version:	1.1
     font-size: 13px;
   }
   .slider .single-slider .text {
-    margin-top: 20px;
+    margin-top: 75%;
   }
   .slider .single-slider .button .btn {
     margin: 0;

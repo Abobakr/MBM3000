@@ -311,7 +311,7 @@ body {
 
 .header .top-link li a {
   color: #2c2d3f;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 400;
   margin-left: 5px;
 }
@@ -1346,7 +1346,7 @@ body {
 .portfolio .single-pf img {
   height: 100%;
   width: 100%;
-  border-radius: 50px;
+  border-radius: 25px;
 }
 
 .portfolio .single-pf:before {
@@ -1355,7 +1355,7 @@ body {
   left: 0;
   top: 0;
   height: 100%;
-  width: 66%;
+  width: 100%;
   background: #3244ac50;
   opacity: 0;
   visibility: hidden;

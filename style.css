@@ -136,21 +136,22 @@ body {
 #scrollUp {
   bottom: 15px;
   right: 15px;
-  padding: 10px 20px;
   background: #3244ac;
   color: #fff;
   font-size: 25px;
   width: 45px;
   height: 45px;
   text-align: center;
-  line-height: 45px;
-  padding: 0;
-  border-radius: 3px;
+  line-height: 37px;
+  border-radius: 25px;
   box-shadow: 0px 0px 10px #00000026;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
 }
 
 #scrollUp:hover {
-  background: #2c2d3f;
+  background: rgb(58, 148, 156);
 }
 
 /* Color Plate */
@@ -1376,7 +1377,7 @@ body {
   z-index: 3;
   background: #fff;
   position: absolute;
-  left: 50%;
+  left: 75%;
   top: 50%;
   opacity: 0;
   visibility: hidden;
@@ -4658,8 +4659,7 @@ body {
 }
 
 .footer .footer-top {
-  /* margin-top: -80px; */
-  padding: 50px 0px 100px 0px;
+  padding: 50px 0px;
   position: relative;
   background-image: url("img/bg.jpg");
   background-size: cover;
@@ -4782,6 +4782,7 @@ body {
 .footer .single-footer .time-sidual li span {
   display: inline-block;
   float: right;
+  margin-right: 5%;
 }
 
 .footer .single-footer .day-head .time {

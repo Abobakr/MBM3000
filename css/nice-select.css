@@ -9,13 +9,12 @@
   display: block;
   float: left;
   font-family: inherit;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: normal;
   height: 42px;
   line-height: 27px;
   outline: none;
-  padding-left: 18px;
-  padding-right: 30px;
+  padding-left: 10%;
   position: relative;
   text-align: left !important;
   -webkit-transition: all 0.2s ease-in-out;
@@ -156,8 +155,7 @@
   list-style: none;
   min-height: 40px;
   outline: none;
-  padding-left: 18px;
-  padding-right: 29px;
+  padding-left: 10%;
   text-align: left;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;

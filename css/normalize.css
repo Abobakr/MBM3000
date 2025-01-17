@@ -1,7 +1,7 @@
 /* =====================================
 Template Name: 	Mediplus.
 Author Name: Naimur Rahman
-Website: http://wpthemesgrid.com/
+Website: http://MBM3000.com/
 Description: Mediplus - Doctor HTML Template.
 Version:	1.1
 ========================================*/
@@ -474,7 +474,6 @@ Preloader Area CSS
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
   border: none;
-  border-radius: 0;
   border-radius: 4px;
 }
 .btn:hover {
@@ -535,7 +534,7 @@ Preloader Area CSS
   height: 100%;
   width: 100%;
   background: #1a76d1;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 /* Bread Crumbs */
 .breadcrumbs {

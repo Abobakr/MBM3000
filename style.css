@@ -1,7 +1,7 @@
 /* =====================================
 Template Name: 	Mediplus.
 Author Name: Naimur Rahman
-Website: http://wpthemesgrid.com/
+Website: http://MBM3000.com/
 Description: Mediplus - Doctor HTML Template.
 Version:	1.1
 ========================================*/
@@ -391,6 +391,7 @@ body {
 .get-quote .btn {
   color: #fff;
   font-size: 16px;
+  margin-top: 11%;
 }
 
 .header .logo {
@@ -1400,7 +1401,7 @@ body {
   z-index: 3;
   background: #fff;
   position: absolute;
-  left: 35%;
+  left: 33%;
   top: 65%;
   opacity: 0;
   visibility: hidden;
@@ -2046,10 +2047,8 @@ body {
   background-image: url("img/client-bg.jpg");
   background-size: cover;
   background-position: center;
-  padding-top: 10%;
-  padding-bottom: 10%;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
   position: relative;
 }
 

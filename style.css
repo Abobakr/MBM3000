@@ -133,6 +133,29 @@ body {
 .get-pro:hover {
 }
 
+#scrollDown {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background: #3244ac;
+  color: #fff;
+  font-size: 25px;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  line-height: 43px;
+  border-radius: 25px;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  padding-left: 11px;
+  margin-top: 7%;
+}
+
+#scrollDown:hover {
+  background: rgb(58, 148, 156);
+}
+
 #scrollUp {
   bottom: 15px;
   right: 15px;
@@ -1368,7 +1391,7 @@ body {
 }
 
 .portfolio .single-pf:hover:before {
-  opacity: 0.7;
+  opacity: 0.5;
   visibility: visible;
 }
 
@@ -1377,23 +1400,21 @@ body {
   z-index: 3;
   background: #fff;
   position: absolute;
-  left: 75%;
-  top: 50%;
+  left: 35%;
+  top: 65%;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
   transition: all 0.4s ease;
-  height: 45px;
+  height: 50px;
   width: 150px;
   text-align: center;
   line-height: 48px;
   padding: 0;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 16px;
   text-wrap: wrap;
-  margin-left: -75px;
-  margin-top: -24px;
   border-radius: 25px;
 }
 
